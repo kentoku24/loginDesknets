@@ -1,0 +1,2 @@
+# loginDesknets
+Chromeを開いてDesknetsにログインします
